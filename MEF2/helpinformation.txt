@@ -1,0 +1,1 @@
+﻿use the controllername for the new controller as plugin1
